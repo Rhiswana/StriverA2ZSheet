@@ -2,8 +2,6 @@
 
 In programming, a **pattern** is a particular arrangement of characters, numbers, or symbols that we generate using code.
 
----
-
 ## How to Solve a Pattern?
 
 When solving a pattern, ask yourself:
@@ -15,8 +13,6 @@ When solving a pattern, ask yourself:
 5. When should I print a **space**?
 6. When should I print a **character or number**?
 7. How many times should each loop execute?
-
----
 
 ## Pattern-Solving Approach
 
