@@ -16,24 +16,15 @@ When solving a pattern, ask yourself:
 
 ## Pattern-Solving Approach
 
-Whenever you see a pattern, follow this approach:
+Whenever you see a pattern, follow these steps:
 
-**Observe the Pattern**
-↓
-**Count the Rows**
-↓
-**Observe Each Row**
-↓
-**Find What Changes**
-↓
-**Find What Stays the Same**
-↓
-**Identify Spaces**
-↓
-**Identify Symbols / Characters**
-↓
-**Decide Loop Conditions**
-↓
-**Write the Code**
-↓
-**Check the Output**
+1. **Observe the Pattern**
+2. **Count the Rows**
+3. **Observe Each Row**
+4. **Find What Changes**
+5. **Find What Stays the Same**
+6. **Identify Spaces**
+7. **Identify Symbols / Characters**
+8. **Decide Loop Conditions**
+9. **Write the Code**
+10. **Check the Output**
